@@ -9,7 +9,7 @@ You may use my photos:
 - to calm your pet raccoon.
 
 You may **not**:
-- re-upload my photos on any other site,
+- re-upload my photos on any other site or repository,
 - sell my photos in any form, digital or physical (things like using my photos in a monetised YouTube video is fine), or
 - claim any ownership of my photos.
 
