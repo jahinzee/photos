@@ -1,6 +1,9 @@
 # My Photos
 This is a collection of all public photographs taken by me.
 
+## Best of the Best
+<img src="https://raw.githubusercontent.com/jahinzee/photos/main/evening%40sea-cliff-bge.jpg" height=128 width=128>
+
 ## License
 You may use my photos:
 - for all non-commercial projects,
