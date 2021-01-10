@@ -4,7 +4,7 @@ This is a collection of all public photographs taken by me.
 ## License
 You may use my photos:
 - for all non-commercial projects,
-- all commercial projects, but with attribution (see below),
+- all commercial projects, but with attribution (see [Attribution](https://github.com/jahinzee/photos#attribution)),
 - as your wallpaper, or
 - to calm your pet raccoon.
 
