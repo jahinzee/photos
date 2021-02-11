@@ -1,4 +1,5 @@
 # My Photos
+Sometimes I travel. Sometimes I take pictures when I travel. Sometimes I'll even remember to put them here, but only the best of the best.
 
 ## License
 You may use my photos:
