@@ -1,5 +1,4 @@
 # My Photos
-This is a collection of all public photographs taken by me.
 
 ## License
 You may use my photos:
